@@ -593,7 +593,7 @@ export default {
         return {
             catelist:[],
             sliderlist:[],
-            toplist:[]
+            toplist:[],
             
 
         }
